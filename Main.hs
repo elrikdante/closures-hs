@@ -1,4 +1,8 @@
 -- |
+-- as usual, Gabriel Gonzalez does an excellent job pushing me
+-- in the right direction: though I don't fully understand whats going
+-- on here.
+-- source: http://stackoverflow.com/questions/12442671/how-do-closures-work-in-haskell
 
 module Main where
 import qualified Control.Monad.State as ST
